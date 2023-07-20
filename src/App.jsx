@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muskan Saleh",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Software Engineering Student",
+  email: "muskan.saleh@studentambassadors.com",
+  gitHub: "muskansaleh",
+  instagram: "callmefreshup07",
+  linkedIn: "muskansaleh",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
